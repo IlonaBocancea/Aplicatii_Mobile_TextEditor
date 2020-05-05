@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Applicationmy</string>
+    <string name="action_open">Applicationmy</string>
+    <string name="action_save">Applicationmy</string>
+    <string name="action_clear">Applicationmy</string>
+    <string name="action_setings">Applicationmy</string>
+
+    <string name="pref_openmode">Applicationmy</string>
+    <string name="pref_size">Applicationmy</string>
+    <string name="pref_style">Applicationmy</string>
+    <string name="pref_color">Applicationmy</string>
+    <string name="pref_color_red">Applicationmy</string>
+    <string name="pref_color_green">Applicationmy</string>
+    <string name="pref_color_blue">Applicationmy</string>
+
+    <string name="style">Applicationmy</string>
+    <string name="style_regular">Applicationmy</string>
+    <string name="style_bold">Applicationmy</string>
+    <string name="style_italic">Applicationmy</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="stergere">Stergere</string>
+    <string name="open">open</string>
+    <string name="save">Save</string>
+    <string name="setari">Setari</string>
+</resources>
